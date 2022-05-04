@@ -7,15 +7,8 @@
 **chimesindeed/chimesindeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on retail-champ.
+- 🔭 I’m currently working on several Desktop Apps integrating JavaScript with the Electron framework.
 
 - 🌱 I’m currently learning Operating Systems, and Google Firebase.
 
-- 📫 How to reach me: gratitudeandfocus@fastmail.com
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: contact@dgeddadevelops.me
